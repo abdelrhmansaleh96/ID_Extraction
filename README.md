@@ -27,17 +27,17 @@ Address
 Birth Date, Governorate, and Gender
 
 Project Structure
-graphql
-Copy code
 egyptian-id-recognition/
-├── app.py             # Main application
-├── utils.py           # Processing logic
-├── requirements.txt   # Dependencies
-├── README.md          # Documentation
-├── YOLO models        # Pretrained YOLO models (to download)
-└── d2.jpg             # Processed image output
+
+- **`app.py`**: Main application file for running the Streamlit interface.  
+- **`utils.py`**: Contains processing functions for detection and text extraction.  
+- **`requirements.txt`**: Lists all dependencies required to run the project.  
+- **`README.md`**: Project documentation and usage guide.  
+- **YOLO Models**: Pretrained YOLO models (`detect_id.pt`, `detect_objects.pt`, `detect_id_card.pt`) for ID and field detection.  
+- **`d2.jpg`**: Sample output image generated during processing.  
 
 
 Contact
 GitHub: naso7yy
+
 Email: ahmed.noshy2004@gmail.com
