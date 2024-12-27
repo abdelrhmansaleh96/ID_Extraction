@@ -13,6 +13,10 @@ A Python-based application to detect and process Egyptian ID cards using YOLO an
   - Birth Date
   - Governorate
   - Gender
+  - birth place
+  - location
+  - nationality
+  - 
 - **Web Interface**: Easy-to-use interface built with Streamlit.
 
 ---
