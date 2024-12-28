@@ -6,4 +6,5 @@ numpy
 streamlit
 pillow
 
-to use them : **`pip install ultralytics easyocr opencv-python numpy streamlit pillow`**
+to use them : 
+pip install ultralytics easyocr opencv-python numpy streamlit pillow
