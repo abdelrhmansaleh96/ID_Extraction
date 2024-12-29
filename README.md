@@ -45,3 +45,5 @@ Contact
 GitHub: naso7y
 
 Email: ahmed.noshy2004@gmail.com
+ط
+https://www.linkedin.com/in/nos7y/
