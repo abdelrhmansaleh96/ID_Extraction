@@ -38,7 +38,7 @@ egyptian-id-recognition/
 - **`requirements.txt`**: Lists all dependencies required to run the project.  
 - **`README.md`**: Project documentation and usage guide.  
 - **YOLO Models**: Pretrained YOLO models (`detect_id.pt`, `detect_objects.pt`, `detect_id_card.pt`) for ID and field detection.  
-- **`d2.jpg`**: Sample output image generated during processing.  
+- **`sample.png`**: Sample output image generated during processing.  
 
 
 Contact
