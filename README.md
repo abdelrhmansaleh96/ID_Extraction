@@ -42,9 +42,9 @@ egyptian-id-recognition/
 
 
 Contact
+
 GitHub: naso7y
 
 Email: ahmed.noshy2004@gmail.com
 
-
-https://www.linkedin.com/in/nos7y/
+LinkedIn https://www.linkedin.com/in/nos7y/
