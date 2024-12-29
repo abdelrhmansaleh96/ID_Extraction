@@ -59,7 +59,7 @@ if st.session_state.current_tab == "Home":
 
 # Documentation Tab
 elif st.session_state.current_tab == "Guide":
-    st.title("How to use our application 🌹📖")
+    st.title("How to use our application 📖")
     st.write("""
     ## Project Overview:
     This application processes Egyptian ID cards to extract key information, including names, addresses, and national IDs.  
