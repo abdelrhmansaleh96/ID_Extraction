@@ -42,6 +42,6 @@ egyptian-id-recognition/
 
 
 Contact
-GitHub: naso7yy
+GitHub: naso7y
 
 Email: ahmed.noshy2004@gmail.com
