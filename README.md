@@ -1,6 +1,6 @@
 # Egyptian ID Card Recognition System 💳
 
-A Python-based application to detect and process Egyptian ID cards using YOLO and EasyOCR.
+A Python-based application to detect and process Egyptian ID cards using YOLO and EasyOCR , Also Recognize the fake ID , any fake thing in the id like picture , first , last name
 
 ---
 
