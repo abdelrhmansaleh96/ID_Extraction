@@ -25,7 +25,7 @@ if st.session_state.current_tab == "Home":
 
     # If no file is uploaded, display the HOME image
     if not uploaded_file:
-        st.image(r"D:\FACULTY OF AI , YEAR 3\DEEP\code\ocr2.png", use_container_width=True)
+        st.image("ocr2.png", use_container_width=True)
     else:
         # If a file is uploaded, process it
         with tempfile.NamedTemporaryFile(delete=False, suffix=".jpg") as temp_file:
