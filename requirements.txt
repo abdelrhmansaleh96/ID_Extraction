@@ -1,4 +1,7 @@
-streamlit
+fastapi
+uvicorn[standard]
+python-multipart
+requests
 pillow
 opencv-python
 numpy
