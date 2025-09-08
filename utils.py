@@ -94,12 +94,12 @@ def process_image(cropped_image):
                 nid = detect_national_id(cropped_nid)
 
     merged_name = f"{first_name} {second_name}"
-    print(f"First Name: {first_name}")
-    print(f"Second Name: {second_name}")
-    print(f"Full Name: {merged_name}")
-    print(f"National ID: {nid}")
-    print(f"Address: {address}")
-    print(f"Serial: {serial}")
+    # print(f"First Name: {first_name}")
+    # print(f"Second Name: {second_name}")
+    # print(f"Full Name: {merged_name}")
+    # print(f"National ID: {nid}")
+    # print(f"Address: {address}")
+    # print(f"Serial: {serial}")
 
     decoded_info = decode_egyptian_id(nid)
     return (first_name, second_name, merged_name, nid, address, decoded_info["Birth Date"], decoded_info["Governorate"], decoded_info["Gender"])
