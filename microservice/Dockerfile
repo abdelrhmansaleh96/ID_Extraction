@@ -6,14 +6,17 @@ WORKDIR /app
 
 # Install system dependencies for OpenCV and image processing
 RUN apt-get update && apt-get install -y \
-    libgl1-mesa-glx \
+    libgl1 \
     libglib2.0-0 \
     libsm6 \
     libxext6 \
-    libxrender-dev \
+    libxrender1 \
     libgomp1 \
     libgcc-s1 \
     curl \
+    libgtk-3-0 \
+    libgthread-2.0-0 \
+    libxss1 \
     && rm -rf /var/lib/apt/lists/*
 
 # Copy requirements first for better caching
